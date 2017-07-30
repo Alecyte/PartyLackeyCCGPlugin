@@ -13,7 +13,7 @@
 		<visibletoothers>no</visibletoothers>
 	</gamezone>
 	<gamezone>
-		<label>Graveyard</label>
+		<label>Discard</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
@@ -53,6 +53,11 @@
 	<deckzone>
 		<label>Hero Starting Zone</label>
 		<gamezonetoloadto>Hero Starting Zone</gamezonetoloadto>
+		<shuffle>no</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Extra Deck</label>
+		<gamezonetoloadto>Extra Deck</gamezonetoloadto>
 		<shuffle>no</shuffle>
 	</deckzone>
 	
@@ -163,6 +168,6 @@
 	
 	<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
 	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
-	<definition><kind>GRIDSIZE</kind><value>2</value></definition>
+	<definition><kind>GRIDSIZE</kind><value>4</value></definition>
 	<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
 </plugin>
