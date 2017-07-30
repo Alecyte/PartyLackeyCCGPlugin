@@ -1,0 +1,170 @@
+<plugin>
+	<pluginversion>0.1</pluginversion>
+	<pluginname>Party Game</pluginname>
+  
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Deck</label>
+		<visibletoowner>no</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Graveyard</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Extra Deck</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	<gamezone>
+		<label>Hero Starting Zone</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>no</visibletoothers>
+	</gamezone>
+	
+	<playerstat>
+		<label>Hero 1 Health</label>
+		<initialvalue>20</initialvalue>
+	</playerstat>
+	<playerstat>
+		<label>Hero 2 Health</label>
+		<initialvalue>20</initialvalue>
+	</playerstat>
+	<playerstat>
+		<label>Hero 3 Health</label>
+		<initialvalue>20</initialvalue>
+	</playerstat>
+	<playerstat>
+		<label>Hero 4 Health</label>
+		<initialvalue>20</initialvalue>
+	</playerstat>
+	
+	<deckzone>
+		<label>Deck</label>
+		<gamezonetoloadto>Deck</gamezonetoloadto>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Hero Starting Zone</label>
+		<gamezonetoloadto>Hero Starting Zone</gamezonetoloadto>
+		<shuffle>no</shuffle>
+	</deckzone>
+	
+	<phase>
+		<label>Upkeep</label>
+	</phase>
+	<phase>
+		<label>Draw</label>
+	</phase>
+	<phase>
+		<label>Main</label>
+	</phase>
+	<phase>
+		<label>End</label>
+	</phase>
+	
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	<generalfunction>
+		<label>Next Phase</label>
+		<kind>NEXTPHASE</label>
+	</generalfunction>
+	<generalfunction>
+		<label>Previous Phase</label>
+		<kind>PREVIOUSPHASE</kind>
+	<generalfunction>
+	<generalfunction>
+		<label>Next Turn</label>
+		<kind>NEXTTURN</kind>
+	</generalfunction>
+	<generalfunction>
+		<label>Roll D6</label>
+		<kind>ROLLD6</kind>
+	</generalfunction>
+	<generalfunction>
+		<label>Roll D20</label>
+		<kind>ROLLD20</kind>
+	</generalfunction>
+	<generalfunction>
+		<label>Ready All</label>
+		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	</generalfunction>
+	
+	<cardfunction>
+		<label>Turn Over</label>
+		<kind>TURNOVER</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Add Green Counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>green</color>
+		<textoverimagecolor<00FF00</textoverimagecolor>
+		<PositionX>0</PositionX>
+		<PositionY>0</PositionY>
+	<cardfunction>
+	<cardfunction>
+		<label>Add Blue Counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>blue</color>
+		<textoverimagecolor<0000FF</textoverimagecolor>
+		<PositionX>0</PositionX>
+		<PositionY>0</PositionY>
+	<cardfunction>
+	<cardfunction>
+		<label>Add Red Counter</label>
+		<kind>ADDCOUNTER</kind>
+		<color>red</color>
+		<textoverimagecolor<FF0000</textoverimagecolor>
+		<PositionX>0</PositionX>
+		<PositionY>0</PositionY>
+	<cardfunction>
+	<cardfunction>
+		<label>Remove Green Counter</label>
+		<label>REMOVECOUNTER</label>
+		<color>green</color>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove Blue Counter</label>
+		<label>REMOVECOUNTER</label>
+		<color>blue</color>
+	</cardfunction>
+	<cardfunction>
+		<label>Remove Red Counter</label>
+		<label>REMOVECOUNTER</label>
+		<color>red</color>
+	</cardfunction>
+	<cardfunction>
+		<label>Clear Card</label>
+		<kind>CLEARCARD</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Tap Card</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+	</cardfunction>
+	<cardfunction>
+		<label>Untap Card</label>
+		<kind>MAKERIGHT0DEGREES</label>
+	</cardfunction>
+	
+	<definition>
+		<kind>ISYOURFACEDOWNVISIBLE</kind>
+		<value>yes</value>
+	</definition>
+	<definition>
+		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+		<value>yes</value>
+	</definition>
+	<definition>
+		<kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
+		<value>owner</value>
+	</definition>
+</plugin>

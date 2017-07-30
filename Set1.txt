@@ -1,0 +1,11 @@
+Name	Set	ImageFile	Type	Class	Tier	Health	Cost	Text
+Assassin	Set1	AssassinClass	Class	Rogue	2	20		"Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)"
+Chronomancer	Set1	ChonomancerClass	Class	Mage	3	20		Ability (2 AP) : Give an enemy Hero Daze 3'
+Cryomancer	Set1	CryomancerClass	Class	Mage	2	20		Ability (2AP) : Deal 1 damage to an enemy Hero and Freeze it.
+Electromancer	Set1	ElectromancerClass	Class	Mage	2	20		Ability (2AP) : Deal 1 damage twice to all enemy characters.
+Mage	Set1	MageClass	Class	Mage	1	20		Ability (1AP) : Deal 1 damage each to up to 2 enemy characters.
+Pyromancer	Set1	PyromancerClass	Class	Mage	2	20		"Ability (2AP) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character)."
+Rogue	Set1	RogueClass	Class	Rogue	1	20		"Ability (1AP) : Draw 1 card, then discard 1 card."
+Saboteur	Set1	SaboteurClass	Class	Rogue	2	20		Ability (2AP) : Enrage an enemy Hero and give it (Daze 1).
+TreasureHunter	Set1	THClassTemplate	Class	Rogue	3	20		"Ability (2AP) : Discard 1 card, then draw 3 cards."
+Thief	Set1	ThiefClass.jpg	Class	Rogue	2	20		"Ability (2 AP) : Draw 1 card, then your opponent discards 1 card. "

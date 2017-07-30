@@ -1,0 +1,11 @@
+CardImageURLs:
+Set1/AssassinClass.jpg https://www.dropbox.com/s/l1vjqvm5u8obwtz/AssassinClass.jpg?dl=1
+Set1/ChonomancerClass.jpg https://www.dropbox.com/s/yjb1ujtp0st8ttq/ChronomancerClass.jpg?dl=1
+Set1/CryomancerClass.jpg https://www.dropbox.com/s/jk1wa3d6u9ltdyb/CryomancerClass.jpg?dl=1
+Set1/ElectromancerClass.jpg https://www.dropbox.com/s/186rijmudzz7qmi/ElectromancerClass.jpg?dl=1
+Set1/MageClass.jpg	https://www.dropbox.com/s/w0hyuneeljyqo8k/MageClass.jpg?dl=1
+Set1/PyromancerClass.jpg https://www.dropbox.com/s/2bvh3jkrq0ba8mo/PryomancerClass.jpg?dl=1
+Set1/RogueClass.jpg https://www.dropbox.com/s/49f11581qp8q113/RogueClass.jpg?dl=1
+Set1/SaboteurClass.jpg https://www.dropbox.com/s/u2f9d6ftcxyxxzw/SaboteurClass.jpg?dl=1
+Set1/THClassTemplate.jpg https://www.dropbox.com/s/szn4cuusscgnd4r/THClassTemplate.jpg?dl=1
+Set1/ThiefClass.jpg https://www.dropbox.com/s/v22g1izlx7090it/ThiefClass.jpg?dl=1
