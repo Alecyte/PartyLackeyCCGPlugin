@@ -18,12 +18,12 @@
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 	<gamezone>
-		<label>Extra Deck</label>
+		<label>Hero Starting Zone</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>no</visibletoothers>
 	</gamezone>
 	<gamezone>
-		<label>Hero Starting Zone</label>
+		<label>Extra Deck</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>no</visibletoothers>
 	</gamezone>
@@ -46,14 +46,14 @@
 	</playerstat>
 	
 	<deckzone>
-		<label>Deck</label>
-		<gamezonetoloadto>Deck</gamezonetoloadto>
-		<shuffle>yes</shuffle>
-	</deckzone>
-	<deckzone>
 		<label>Hero Starting Zone</label>
 		<gamezonetoloadto>Hero Starting Zone</gamezonetoloadto>
 		<shuffle>no</shuffle>
+	</deckzone>
+	<deckzone>
+		<label>Deck</label>
+		<gamezonetoloadto>Deck</gamezonetoloadto>
+		<shuffle>yes</shuffle>
 	</deckzone>
 	<deckzone>
 		<label>Extra Deck</label>

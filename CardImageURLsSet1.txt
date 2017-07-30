@@ -4,7 +4,7 @@ Set1/ChonomancerClass.jpg https://www.dropbox.com/s/xmmg3dlrh0fde51/Chronomancer
 Set1/CryomancerClass.jpg https://www.dropbox.com/s/0natvijgcxwvhsy/CryomancerClass.jpg?dl=1
 Set1/ElectromancerClass.jpg https://www.dropbox.com/s/8dsw4l6rlwi57z5/ElectromancerClass.jpg?dl=1
 Set1/MageClass.jpg	https://www.dropbox.com/s/vrpu4d7hevhyjng/MageClass.jpg?dl=1
-Set1/PyromancerClass.jpg https://www.dropbox.com/s/kys1jbicck2teju/PryomancerClass.jpg?dl=1
+Set1/PyromancerClass.jpg https://www.dropbox.com/s/8mo0kcb72s4h4yw/PyromancerClass.jpg?dl=1
 Set1/RogueClass.jpg https://www.dropbox.com/s/djxrphf20nrjhh0/RogueClass.jpg?dl=1
 Set1/SaboteurClass.jpg https://www.dropbox.com/s/s4ktkdernkxjjee/SaboteurClass.jpg?dl=1
 Set1/THClass.jpg https://www.dropbox.com/s/dfvekuksxyhnboz/THClass.jpg?dl=1
