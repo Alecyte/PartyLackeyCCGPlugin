@@ -166,8 +166,18 @@
 		<kind>MAKERIGHT0DEGREES</kind>
 	</cardfunction>
 	
-	<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
-	<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
-	<definition><kind>GRIDSIZE</kind><value>4</value></definition>
-	<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+	<definition>
+		<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+	</definition>
+	<definition>
+		<kind>ISYOURFACEDOWNVISIBLE</kind>
+	</definition>
+	<definition>
+		<kind>GRIDSIZE</kind>
+		<value>2</value>
+	</definition>
+	<definition>
+		<kind>BACKVISIBILITY</kind>
+		<value>BACKVISIBILITYHIDEBACKINZONES</value>
+	</definition>
 </plugin>
