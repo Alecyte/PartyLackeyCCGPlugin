@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>072917</lastupdateYYMMDD>
-<versionurl>https://www.dropbox.com/s/jcz76lzyc248j31/version.txt</versionurl>
-<updateurl>https://www.dropbox.com/s/3rey6xyi7x80lbf/updatelist.txt</updateurl>
-<message>Update message here</message>
+<lastupdateYYMMDD>073017</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/updatelist.txt</updateurl>
+<message>Initial Version</message>
 
 </version>
