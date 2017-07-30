@@ -3,5 +3,5 @@ plugins/PartyGame/plugininfo.txt https://raw.githubusercontent.com/Alecyte/Party
 plugins/PartyGame/sets/setimages/general/cardback.jpg https://www.dropbox.com/s/wxdfxchfltvd352/PlaceholderCardback.jpg?dl=1	2467101
 plugins/Partygame/sets/Set1.txt	https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/Set1.txt	96950
 plugins/PartyGame/CardImageURLsSet1.txt	https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/CardImageURLsSet1.txt	83239
-CardImageURLs:
+CardURLFiles:
 CardImageURLsSet1.txt
