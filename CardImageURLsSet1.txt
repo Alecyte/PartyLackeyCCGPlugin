@@ -1,9 +1,14 @@
 CardImageURLs:
+Set1/ArchangelClass.jpg https://www.dropbox.com/s/12aqulf8i2bhzxb/ArchangelClass.jpg?dl=1
 Set1/AssassinClass.jpg https://www.dropbox.com/s/eqcj8jcmraa5xvw/AssassinClass.jpg?dl=1
+Set1/BishopClass.jpg https://www.dropbox.com/s/usjqk8q35z2nrs9/BishopClass.jpg?dl=1
 Set1/ChonomancerClass.jpg https://www.dropbox.com/s/xmmg3dlrh0fde51/ChronomancerClass.jpg?dl=1
 Set1/CryomancerClass.jpg https://www.dropbox.com/s/0natvijgcxwvhsy/CryomancerClass.jpg?dl=1
 Set1/ElectromancerClass.jpg https://www.dropbox.com/s/8dsw4l6rlwi57z5/ElectromancerClass.jpg?dl=1
+Set1/ExorcistClass.jpg https://www.dropbox.com/s/vqbkr41k8sdwy32/ExorcistClass.jpg?dl=1
+Set1/InquisitorClass.jpg https://www.dropbox.com/s/mv49bm7sm169n53/InquisitorClass.jpg?dl=1
 Set1/MageClass.jpg	https://www.dropbox.com/s/vrpu4d7hevhyjng/MageClass.jpg?dl=1
+Set1/PriestClass.jpg https://www.dropbox.com/s/4zd9dl3thvx6pv7/PriestClass.jpg?dl=1
 Set1/PyromancerClass.jpg https://www.dropbox.com/s/8mo0kcb72s4h4yw/PyromancerClass.jpg?dl=1
 Set1/RogueClass.jpg https://www.dropbox.com/s/djxrphf20nrjhh0/RogueClass.jpg?dl=1
 Set1/SaboteurClass.jpg https://www.dropbox.com/s/s4ktkdernkxjjee/SaboteurClass.jpg?dl=1
