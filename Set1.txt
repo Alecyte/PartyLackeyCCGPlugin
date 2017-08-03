@@ -1,64 +1,64 @@
 Name	Set	ImageFile	Type	Base Class	Top Class	Skill Type	Tier	Health	Cost	Text
-Assassin	Set1	AssassinClass	Class	Rogue			2	20		"Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)"
+Assassin	Set1	AssassinClass	Class	Rogue			2	20		Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)
 Chronomancer	Set1	ChonomancerClass	Class	Mage			3	20		Ability (2 AP) : Give an enemy Hero (Daze 3).
 Cryomancer	Set1	CryomancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage to an enemy Hero and Freeze it.
 Electromancer	Set1	ElectromancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage twice to all enemy characters.
 Mage	Set1	MageClass	Class	Mage			1	20		Ability (1AP) : Deal 1 damage each to up to 2 enemy characters.
-Pyromancer	Set1	PyromancerClass	Class	Mage			2	20		"Ability (2AP) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character)."
-Rogue	Set1	RogueClass	Class	Rogue			1	20		"Ability (1AP) : Draw 1 card, then discard 1 card."
+Pyromancer	Set1	PyromancerClass	Class	Mage			2	20		Ability (2AP) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character).
+Rogue	Set1	RogueClass	Class	Rogue			1	20		Ability (1AP) : Draw 1 card, then discard 1 card.
 Saboteur	Set1	SaboteurClass	Class	Rogue			2	20		Ability (2AP) : Enrage an enemy Hero and give it (Daze 1).
-TreasureHunter	Set1	THClass	Class	Rogue			3	20		"Ability (2AP) : Discard 1 card, then draw 3 cards."
-Thief	Set1	ThiefClass.jpg	Class	Rogue			2	20		"Ability (2 AP) : Draw 1 card, then your opponent discards 1 card. "
+TreasureHunter	Set1	THClass	Class	Rogue			3	20		Ability (2AP) : Discard 1 card, then draw 3 cards.
+Thief	Set1	ThiefClass.jpg	Class	Rogue			2	20		Ability (2 AP) : Draw 1 card, then your opponent discards 1 card. 
 Arcane Rift	Set1	ArcaneRiftMage	Skill	Mage	Mage	Normal	1		2	Deal 1 damage to each enemy Hero. This skill ignores Armor.
 Backfire	Set1	BackfirePyro	Skill	Mage	Pyromancer	Quick	2		1	Deal 2 damage to a character using a non-damaging skill or ability
 Bolts Of Wisdom	Set1	BoltsOfWisdomMage	Skill	Mage	Mage	Normal	1		3	Deal 2 damage to an enemy character. You may also deal 2 damage to another character for each Tier level this Mage has. 
 Bury In Riches	Set1	BuryInRichesTH	Skill	Rogue	Treasure Hunter	Normal	3		3	Deal damage to an enemy Hero equal to the nuber of cards in your hand minus 1. 
-Cash-cade	Set1	CashcadeRogue	Skill	Rogue	Rogue	Normal	1		4	"Draw 2 cards. If the Rogue using this skill has used exactly 3 other skills this turn, reduce the cost of this skill by 4 AP."
-Change Destiny	Set1	ChangeDestinyChrono	Skill	Mage	Chronomancer	Normal	3		1	"Look at the top 6 cards of either player's deck, then return them in any order you choose. "
+Cash-cade	Set1	CashcadeRogue	Skill	Rogue	Rogue	Normal	1		4	Draw 2 cards. If the Rogue using this skill has used exactly 3 other skills this turn, reduce the cost of this skill by 4 AP.
+Change Destiny	Set1	ChangeDestinyChrono	Skill	Mage	Chronomancer	Normal	3		1	Look at the top 6 cards of either player's deck, then return them in any order you choose. 
 Conjure Fire Elemental	Set1	ConjureFireElementalPyro	Skill	Mage	Pyromancer	Normal	2		2	Create a 1/1  fire Elemental summon with This summon deals damage to every enemy Hero when attacking. Cannot attack other summons.
 Conjure Ice Elemental	Set1	ConjureIceElementalCryo	Skill	Mage	Cryomancer	Normal	2		2	Create a 2/1 Ice Elemental summon with Freeze Heroes damaged by this summon.
 Conjure Spark Elemental	Set1	ConjureSparkElementalElectro	Skill	Mage	Electromancer	Normal	2		2	Create a 1/1 Spark Elemental summon with This summon can attack 3 times per turn before becoming exhausted.
 Daring Caper	Set1	DaringCaperThief	Skill	Rogue	Thief	Normal	2		3	Deal 7 damage to an enemy Hero. Your opponent may discard any number or cards and/or send any number of cards from the top of their deck to the discard pile to prevent 1 damage for each card they discarded or sent to the discard pile.
 Deja vu	Set1	DejaVuChrono	Skill	Mage	Chronomancer	Quick	3		0	Select an allied Hero that has used a skill this turn. That Hero uses a copy of the last skill they used. Pay any AP cost that skill has with AP from this Chronomancer.
-Eliminate	Set1	EliminateAssassin	Skill	Rogue	Assassin	Normal	2		2	"Deal 3 damage to an enemy Hero, or destroy a Summon."
+Eliminate	Set1	EliminateAssassin	Skill	Rogue	Assassin	Normal	2		2	Deal 3 damage to an enemy Hero, or destroy a Summon.
 Excavate	Set1	ExcavateTH	Skill	Rogue	Treasure Hunter	Normal	3		3	Add 1 skill from your discard pile to your hand.
-Final Breath	Set1	FinalBreathAssassin	Skill	Rogue	Assassin	Normal	2		3	"Deal 1 damage to an enemy Hero. If that Hero is reduced to 0 HP by this skill, Obliterate that Hero instead of killing them."
+Final Breath	Set1	FinalBreathAssassin	Skill	Rogue	Assassin	Normal	2		3	Deal 1 damage to an enemy Hero. If that Hero is reduced to 0 HP by this skill, Obliterate that Hero instead of killing them.
 Flashbang	Set1	FlashbangRogue	Skill	Rogue	Rogue	Normal	1		1	Give 1 enemy Hero (Daze 1).
 Frost Wall	Set1	FrostWallCryo	Skill	Mage	Cryomancer	Quick	2		2	Reduce the damage of a skill or ability that would deal damage to 2 or more allied Heroes by 2.
-Glacial Crash	Set1	GlacialCrashCryo	Skill	Mage	Cryomancer	Normal	2		2	"Deal 1 damage to an enemy character. If that character is a Frozen Hero, deal 2 additional damage, give that Hero (Daze 2), then that Hero is no longer Frozen."
-Idol of the Emerald Toad	Set1	IdolEmeraldToadTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Emerald Toad. Heal 2 damage from each allied Hero. If this is the sixth idol skill this Treasure Hunter has used this turn, you win the game."
-Idol of the Ivory Lion	Set1	IdolIvoryLionTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Ivory Lion. Deal 2 to each enemy character. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game. "
-Idol of the Onyx Dragon	Set1	IdolOnyxDragonTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Onyx Dragon. Your opponent discards 2 cards. If this is the sixth idol skill this Treasure Hunter has used this turn, you win the game."
-Idol of the Ruby Pheonix	Set1	IdolRubyPheonixTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Ruby Pheonix. The Treasure Hunter using this skill gets 2 AP. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game."
-Idol of the Sapphire Kraken	Set1	IdolSapphireKrakenTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Sapphire Kraken. Your opponent sends the top 8 cards of their deck to the discard pile. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game. "
-Idol of the Topaz Scarab	Set1	IdolTozapScarabTH	Skill	Rogue	Treasure Hunter	Idol	3		1	"Your deck may only contain 1 Idol of the Topaz Scarab. Draw 2 cards. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game."
+Glacial Crash	Set1	GlacialCrashCryo	Skill	Mage	Cryomancer	Normal	2		2	Deal 1 damage to an enemy character. If that character is a Frozen Hero, deal 2 additional damage, give that Hero (Daze 2), then that Hero is no longer Frozen.
+Idol of the Emerald Toad	Set1	IdolEmeraldToadTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Emerald Toad. Heal 2 damage from each allied Hero. If this is the sixth idol skill this Treasure Hunter has used this turn, you win the game.
+Idol of the Ivory Lion	Set1	IdolIvoryLionTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Ivory Lion. Deal 2 to each enemy character. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game. 
+Idol of the Onyx Dragon	Set1	IdolOnyxDragonTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Onyx Dragon. Your opponent discards 2 cards. If this is the sixth idol skill this Treasure Hunter has used this turn, you win the game.
+Idol of the Ruby Pheonix	Set1	IdolRubyPheonixTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Ruby Pheonix. The Treasure Hunter using this skill gets 2 AP. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game.
+Idol of the Sapphire Kraken	Set1	IdolSapphireKrakenTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Sapphire Kraken. Your opponent sends the top 8 cards of their deck to the discard pile. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game. 
+Idol of the Topaz Scarab	Set1	IdolTozapScarabTH	Skill	Rogue	Treasure Hunter	Idol	3		1	Your deck may only contain 1 Idol of the Topaz Scarab. Draw 2 cards. If this is the sixth Idol skill this Treasure Hunter has used this turn, you win the game.
 Illusion Barrier	Set1	IllusionBarrierMage	Skill	Mage	Mage	Quick	1		3	Reduce the damage dealt to this Mage by a skill or ability by 3. You may spend AP from any of your Heroes to pay for this skill.
 Jab	Set1	JabRogue	Skill	Rogue	Rogue	Normal	1		0	Deal 1 damage to an enemy character.
 Lascerate	Set1	LascerateAssassin	Skill	Rogue	Assassin	Normal	2		2	Deal to damage to an enemy Hero and give them (Bleed 2).
-Mana Conduit	Set1	ManaConduitMage	Skill	Mage	Mage	Normal	1		1	"As an additional cost, two other allied Heroes must pay 1 AP each. Deal 2 damage to an enemy Hero."
+Mana Conduit	Set1	ManaConduitMage	Skill	Mage	Mage	Normal	1		1	As an additional cost, two other allied Heroes must pay 1 AP each. Deal 2 damage to an enemy Hero.
 Mass Accelerate	Set1	MassAccelerateChrono	Skill	Mage	Chronomancer	Normal	3		2	All other Heroes you control get 1 AP this turn.
-Meteor Shower	Set1	MeteorShowerPyro	Skill	Mage	Pyromancer	Normal	2		8	"You may pay for this skill using AP from this Pyromancer on this turn and your next turn. If this full cost is not paid by the end of your next turn, cancel this skill. Deal 5 damage to every enemy character at the end of your next turn."
+Meteor Shower	Set1	MeteorShowerPyro	Skill	Mage	Pyromancer	Normal	2		8	You may pay for this skill using AP from this Pyromancer on this turn and your next turn. If this full cost is not paid by the end of your next turn, cancel this skill. Deal 5 damage to every enemy character at the end of your next turn.
 Prized Possession	Set1	PrizedPossessionThief	Skill	Rogue	Thief	Normal	2		1	Look at your opponent's hand. Discard 1 card of your choice from their hand.
-Reckless Search	Set1	RecklessSearchTH	Skill	Rogue	Treasure Hunter	Normal	3		2	"Discard your hand, then draw as many cards as you discarded plus 2."
+Reckless Search	Set1	RecklessSearchTH	Skill	Rogue	Treasure Hunter	Normal	3		2	Discard your hand, then draw as many cards as you discarded plus 2.
 Scorched Earth	Set1	ScorchedEarthPyro	Skill	Mage	Pyromancer	Normal	2		4	Deal 3 damage to all characters except the Pyromancer using this skill.
 Shattered Time	Set1	ShatteredTimeChrono	Skill	Mage	Chronomancer	Normal	3		5	Skip your opponent's next turn. All Chronomancers you control get (Daze 2) at the beginning of next turn.
 Shock and Awe	Set1	ShockandAweElectro	Skill	Mage	Electromancer	Normal	2		1	Give enemy Heroes equal to the number of skills Electromancer has used this turn (including this one) (Daze 1).
 Sidestep	Set1	SidestepRogue	Skill	Rogue	Rogue	Quick	1		3	Reduce the damage of a skill or ability that targets only this Rogue to 0. You may discard any number of cards to reduce the cost of this skill by 1 AP for each card discarded.
-Silence Incantation	Set1	SilenceIncantationSaboteur	Skill	Rogue	Saboteur	Quick	2		2	"Cancel a skill or ability used by a Priest, Mage or Occultist Hero unless that Hero pays 2 AP."
+Silence Incantation	Set1	SilenceIncantationSaboteur	Skill	Rogue	Saboteur	Quick	2		2	Cancel a skill or ability used by a Priest, Mage or Occultist Hero unless that Hero pays 2 AP.
 Snowstorm	Set1	SnowstormCryo	Skill	Mage	Cryomancer	Quick	2		2	Deal 1 damage to all Heroes. Heroes damaged by this skill cannot use skills or abilities that cost 3 or more AP this turn.
-Static Cling	Set1	StaticClingElectro	Skill	Mage	Electromancer	Normal	2		1	"Deal 1 damage to this Electromancer and an enemy Hero, then this Electromancer gains (Power 1)."
-Substitute Instructor	Set1	SubstituteInstructorSaboteur	Skill	Rogue	Saboteur	Normal	2		2	"Choose an enemy Hero with at least 1 XP. That Hero loses 1 XP, or takes 4 damage (your opponent's choice)."
+Static Cling	Set1	StaticClingElectro	Skill	Mage	Electromancer	Normal	2		1	Deal 1 damage to this Electromancer and an enemy Hero, then this Electromancer gains (Power 1).
+Substitute Instructor	Set1	SubstituteInstructorSaboteur	Skill	Rogue	Saboteur	Normal	2		2	Choose an enemy Hero with at least 1 XP. That Hero loses 1 XP, or takes 4 damage (your opponent's choice).
 Suffocating Smog	Set1	SuffocatingSmogAssassin	Skill	Rogue	Assassin	Normal	2		1	Give 2 enemy Heroes each (Poison 1).
 Swift Strike	Set1	SwiftStrikeRogue	Skill	Rogue	Rogue	Quick	1		2	Deal 1 damage to an enemy character. Draw a card.
-Swipe	Set1	SwipeThief	Skill	Rogue	Thief	Normal	2		2	"Deal 2 damage to an enemy Hero, then your opponent discards 1 card."
-Tarnish Equipment	Set1	TarnishEquipmentSaboteur	Skill	Rogue	Saboteur	Quick	2		2	"Cancel a skill or ability used by a Warrior, Rogue, or Archer Hero unless that Hero pays 2 AP."
+Swipe	Set1	SwipeThief	Skill	Rogue	Thief	Normal	2		2	Deal 2 damage to an enemy Hero, then your opponent discards 1 card.
+Tarnish Equipment	Set1	TarnishEquipmentSaboteur	Skill	Rogue	Saboteur	Quick	2		2	Cancel a skill or ability used by a Warrior, Rogue, or Archer Hero unless that Hero pays 2 AP.
 The Best Laid Plans	Set1	TheBestLaidPlansSaboteur	Skill	Rogue	Saboteur	Quick	2		4	Cancel a skill. The Hero using that skill takes damage equal to the printed AP cost of that skill.
 Thoughtsurge	Set1	ThoughtsurgeMage	Skill	Mage	Mage	Normal	1		1	The next damaging spell or ability this Mage uses this turn deals 1 extra damage.
-Three Wishes	Set1	ThreeWishesTH	Skill	Rogue	Treasure Hunter	Normal	3		5	"Search your deck for 3 different non-Idol skills, or 2 Idol skills. Reveal those skills, add them to your hand, then shuffle your deck."
+Three Wishes	Set1	ThreeWishesTH	Skill	Rogue	Treasure Hunter	Normal	3		5	Search your deck for 3 different non-Idol skills, or 2 Idol skills. Reveal those skills, add them to your hand, then shuffle your deck.
 Vandalize	Set1	VandalizeThief	Skill	Rogue	Thief	Normal	2		2	Your opponent sends the top 5 cards of their deck to the discard pile.
 Voltic Driver	Set1	VolticDriverElectro	Skill	Mage	Electromancer	Normal	2		3	Deal 0 damage 5 times to an enemy Hero.
 Archangel	Set1	ArchangelClass	Class	Priest			3	20		Ability (2 AP): Heal 6 damage divided as you choose from other allied Heroes.
 Bishop	Set1	BishopClass	Class	Priest			2	20		Ability (2 AP): Heal 1 damage from each of your other allied Heroes.
-Exorcist	Set1	ExorcistClass	Class	Priest			2	20		"Ability (2 AP): Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed."
+Exorcist	Set1	ExorcistClass	Class	Priest			2	20		Ability (2 AP): Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed.
 Inquisitor	Set1	InquisitorClass	Class	Priest			2	20		Ability (2 AP): Deal 4 damage to an enemy Hero. An enemy Hero my pay 1 AP to reduce this damage to 2.
 Priest	Set1	PriestClass	Class	Priest			1	20		Ability (1 AP): Heal 1 damage from an allied Hero.
