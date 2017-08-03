@@ -1,6 +1,6 @@
 Name	Set	ImageFile	Type	Base Class	Top Class	Skill Type	Tier	Health	Cost	Text
 Assassin	Set1	AssassinClass	Class	Rogue			2	20		Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)
-Chronomancer	Set1	ChonomancerClass	Class	Mage			3	20		Ability (2 AP) : Give an enemy Hero Daze 3'
+Chronomancer	Set1	ChonomancerClass	Class	Mage			3	20		Ability (2 AP) : Give an enemy Hero (Daze 3).
 Cryomancer	Set1	CryomancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage to an enemy Hero and Freeze it.
 Electromancer	Set1	ElectromancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage twice to all enemy characters.
 Mage	Set1	MageClass	Class	Mage			1	20		Ability (1AP) : Deal 1 damage each to up to 2 enemy characters.
@@ -57,3 +57,8 @@ Thoughtsurge	Set1	ThoughtsurgeMage	Skill	Mage	Mage	Normal	1		1	The next damaging
 Three Wishes	Set1	ThreeWishesTH	Skill	Rogue	Treasure Hunter	Normal	3		5	Search your deck for 3 different non-Idol skills, or 2 Idol skills. Reveal those skills, add them to your hand, then shuffle your deck.
 Vandalize	Set1	VandalizeThief	Skill	Rogue	Thief	Normal	2		2	Your opponent sends the top 5 cards of their deck to the discard pile.
 Voltic Driver	Set1	VolticDriverElectro	Skill	Mage	Electromancer	Normal	2		3	Deal 0 damage 5 times to an enemy Hero.
+Archangel	Set1	ArchangelClass	Class	Priest			3	20		Ability (2 AP): Heal 6 damage divided as you choose from other allied Heroes.
+Bishop	Set1	BishopClass	Class	Priest			2	20		Ability (2 AP): Heal 1 damage from each of your other allied Heroes.
+Exorcist	Set1	ExorcistClass	Class	Priest			2	20		Ability (2 AP): Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed.
+Inquisitor	Set1	InquisitorClass	Class	Priest			2	20		Ability (2 AP): Deal 4 damage to an enemy Hero. An enemy Hero my pay 1 AP to reduce this damage to 2.
+Priest	Set1	PriestClass	Class	Priest			1	20		Ability (1 AP): Heal 1 damage from an allied Hero.
