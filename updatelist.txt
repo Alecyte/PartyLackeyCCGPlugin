@@ -6,5 +6,5 @@ plugins/PartyGame/CardImageURLsSet1.txt	https://raw.githubusercontent.com/Alecyt
 plugins/PartyGame/pluginpreferences.txt	https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/pluginpreferences.txt	257587
 plugins/PartyGame/uninstall.txt	https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/uninstall.txt	12664
 plugins/PartyGame/version.txt	https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/version.txt	31899
-CardImageURLs:
+CardURLFiles:
 CardImageURLsSet1.txt
