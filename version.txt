@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>073017</lastupdateYYMMDD>
+<lastupdateYYMMDD>170804</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/Alecyte/PartyLackeyCCGPlugin/master/updatelist.txt</updateurl>
-<message>Initial Version</message>
+<message>Updated a few images and updating set 1</message>
 
 </version>
