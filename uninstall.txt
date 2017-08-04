@@ -1,0 +1,7 @@
+<uninstall>
+
+<dateYYMMDD>170804</dateYYMMDD>
+<removepath>sets/setimages/set1</removepath>
+<removepath>sets/Set1.txt</removepath>
+
+</uninstall>
