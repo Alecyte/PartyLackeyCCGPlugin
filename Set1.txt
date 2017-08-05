@@ -1,14 +1,14 @@
 Name	Set	ImageFile	Type	Base Class	Top Class	Skill Type	Tier	Health	Cost	Text
-Assassin	Set1	AssassinClass	Class	Rogue			2	20		Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)
-Chronomancer	Set1	ChonomancerClass	Class	Mage			3	20		Ability (2 AP) : Give an enemy Hero (Daze 3).
-Cryomancer	Set1	CryomancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage to an enemy Hero and Freeze it.
-Electromancer	Set1	ElectromancerClass	Class	Mage			2	20		Ability (2AP) : Deal 1 damage twice to all enemy characters.
-Mage	Set1	MageClass	Class	Mage			1	20		Ability (1AP) : Deal 1 damage each to up to 2 enemy characters.
-Pyromancer	Set1	PyromancerClass	Class	Mage			2	20		Ability (2AP) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character).
-Rogue	Set1	RogueClass	Class	Rogue			1	20		Ability (1AP) : Draw 1 card, then discard 1 card.
-Saboteur	Set1	SaboteurClass	Class	Rogue			2	20		Ability (2AP) : Enrage an enemy Hero and give it (Daze 1).
-TreasureHunter	Set1	THClass	Class	Rogue			3	20		Ability (2AP) : Discard 1 card, then draw 3 cards.
-Thief	Set1	ThiefClass.jpg	Class	Rogue			2	20		Ability (2 AP) : Draw 1 card, then your opponent discards 1 card. 
+Assassin	Set1	AssassinClass,AssassinSkulkingSpirit	Class	Rogue			2	20		Ability (2 AP) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1) // Spirit Ability (Discard 2 orange skills) : Deal 2 damage to an enemy Hero, and give them (Poison 1) or (Bleed 1)
+Chronomancer	Set1	ChonomancerClass,ChronomancerEternalSpirit	Class	Mage			3	20		Ability (2 AP) : Give an enemy Hero (Daze 3). // Spirit Ability (Discard 3 blue skills) : Give an enemy Hero (Daze 3).
+Cryomancer	Set1	CryomancerClass,CryomancerChillingSpirit	Class	Mage			2	20		Ability (2AP) : Deal 1 damage to an enemy Hero and Freeze it. // Spirit Ability (Discard 2 blue skills) : Deal 1 damage to an enemy Hero and Freeze it.
+Electromancer	Set1	ElectromancerClass,ElectromancerEnergizedSpirit	Class	Mage			2	20		Ability (2AP) : Deal 1 damage twice to all enemy characters. // Spirit Ability (Discard 2 blue skills) : Deal 1 damage twice to 2 enemy characters.
+Mage	Set1	MageClass,MageMysticSpirit	Class	Mage			1	20		Ability (1AP) : Deal 1 damage each to up to 2 enemy characters. // Spirit Ability (Discard 2 blue skills) : Deal 1 damage to up to 2 enemy characters.
+Pyromancer	Set1	PyromancerClass,PyromancerBlazingSpirit	Class	Mage			2	20		Ability (2AP) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character). // Spirit Ability (Discard 2 blue skills) : Deal 4 damage, divided as you choose amongst 2 or more enemy characters (max 2 damage per character).
+Rogue	Set1	RogueClass,RogueMischeviousSpirit	Class	Rogue			1	20		Ability (1AP) : Draw 1 card, then discard 1 card. // Spirit Ability (Discard 1 orange skill):  Draw 1 card, then discard 1 card.
+Saboteur	Set1	SaboteurClass,SaboteurDeviousSpirit	Class	Rogue			2	20		Ability (2AP) : Enrage an enemy Hero and give it (Daze 1). // Spirit Ability (Discard 2 orange skills): Enrage an enemy Hero and give it (Daze 1).
+TreasureHunter	Set1	THClass,THAvariciousSpirit	Class	Rogue			3	20		Ability (2AP) : Discard 1 card, then draw 3 cards. // Spirit Ability (Discard 3 orange skills) : Discard 1 card, then draw 3 cards.
+Thief	Set1	ThiefClass,ThiefLootingSpirit	Class	Rogue			2	20		Ability (2 AP) : Draw 1 card, then your opponent discards 1 card. // Spirit Ability (Discard 2 orange skills) : Draw 1 card, then your opponent discards 1 card. 
 Arcane Rift	Set1	ArcaneRiftMage	Skill	Mage	Mage	Normal	1		2	Deal 1 damage to each enemy Hero. This skill ignores Armor.
 Backfire	Set1	BackfirePyro	Skill	Mage	Pyromancer	Quick	2		1	Deal 2 damage to a character using a non-damaging skill or ability
 Bolts Of Wisdom	Set1	BoltsOfWisdomMage	Skill	Mage	Mage	Normal	1		3	Deal 2 damage to an enemy character. You may also deal 2 damage to another character for each Tier level this Mage has. 
@@ -57,8 +57,32 @@ Thoughtsurge	Set1	ThoughtsurgeMage	Skill	Mage	Mage	Normal	1		1	The next damaging
 Three Wishes	Set1	ThreeWishesTH	Skill	Rogue	Treasure Hunter	Normal	3		5	Search your deck for 3 different non-Idol skills, or 2 Idol skills. Reveal those skills, add them to your hand, then shuffle your deck.
 Vandalize	Set1	VandalizeThief	Skill	Rogue	Thief	Normal	2		2	Your opponent sends the top 5 cards of their deck to the discard pile.
 Voltic Driver	Set1	VolticDriverElectro	Skill	Mage	Electromancer	Normal	2		3	Deal 0 damage 5 times to an enemy Hero.
-Archangel	Set1	ArchangelClass	Class	Priest			3	20		Ability (2 AP): Heal 6 damage divided as you choose from other allied Heroes.
-Bishop	Set1	BishopClass	Class	Priest			2	20		Ability (2 AP): Heal 1 damage from each of your other allied Heroes.
-Exorcist	Set1	ExorcistClass	Class	Priest			2	20		Ability (2 AP): Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed.
-Inquisitor	Set1	InquisitorClass	Class	Priest			2	20		Ability (2 AP): Deal 4 damage to an enemy Hero. An enemy Hero my pay 1 AP to reduce this damage to 2.
-Priest	Set1	PriestClass	Class	Priest			1	20		Ability (1 AP): Heal 1 damage from an allied Hero.
+Archangel	Set1	ArchangelClass,ArchangelDivineSpirit	Class	Priest			3	20		Ability (2 AP): Heal 6 damage divided as you choose from other allied Heroes // Spirit Ability (Discard 3 yellow skills) : Heal 6 damage divided as you choose from other allied Heroes.
+Bishop	Set1	BishopClass,BishopDevoutSpirit	Class	Priest			2	20		Ability (2 AP): Heal 1 damage from each of your other allied Heroes. // Spirit Ability (Discard 2 yellow skills) : Heal 1 damage from each of your other allied Heroes.
+Exorcist	Set1	ExorcistClass,ExorcistPurifyingSpirit	Class	Priest			2	20		Ability (2 AP): Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed. // Spirit Ability (Discard 2 yellow skills) : Remove up to 2 Buffs or Debuffs from other Heroes, then Heal 2 damage from those Heroes per Buff or Debuff removed.
+Inquisitor	Set1	InquisitorClass,InquisitorZealousSpirit	Class	Priest			2	20		Ability (2 AP): Deal 4 damage to an enemy Hero. An enemy Hero my pay 1 AP to reduce this damage to 2. // Spirit Ability (Discard 2 yellow skills) : Deal 4 damage to an enemy Hero. An enemy Hero my pay 1 AP to reduce this damage to 2.
+Priest	Set1	PriestClass,PriestFaithfulSpirit	Class	Priest			1	20		Ability (1 AP): Heal 1 damage from an allied Hero. // Spirit Ability (Discard 1 yellow skill): Heal 1 damage from an allied Hero.
+Occultist	Set1	OccultistClass	Class	Occultist			1	20		Ability (1 AP): Give an enemy Hero (Weaken 1).
+Archer	Set1	ArcherClass	Class	Archer			1	20		Ability (1 AP): Deal 2 damage to an enemy Hero.
+Warrior	Set1	WarriorClass	Class	Warrior			1	20		Ability (1 AP): Give an allied Hero (Armor 1).
+Blessing Of Good Health	Set1	BlessingofGoodHealthBishop	Skill	Priest	Bishop	Normal	2		2	Give an allied Hero (Regen 1).
+Cleansing Touch	Set1	CleansingTouchPriest	Skill	Priest	Priest	Normal	1		1	Remove a Debuff from an allied Hero.
+Conversion	Set1	ConversionInquisitor	Skill	Priest	Inquisitor	Normal	2		2	Gain control of an enemy summon.
+Divine Intervention	Set1	DivineInterventionPriest	Skill	Priest	Priest	Quick	1		2	Heal 1 damage from another allied Hero. If that Hero has taken 5 or more damage this turn, you may use this skill for 0 AP, Heal 1 additional damage from that Hero, and that hero becomes immune to damage until the end of this turn.
+Diving Wrath	Set1	DivineWrathInquisitor	Skill	Priest	Inquisitor	Normal	2		4	Every enemy Hero may choose to either pay 1 AP, or be dealt 4 damage by this skill.
+Faith's Reward	Set1	FaithsRewardBishop	Skill	Priest	Bishop	Normal	2		4	Give each allied Hero either (Power 1) or 1 AP. You may choose a different option for each Hero.
+Imprisoning Seal	Set1	ImprisoningSealExorcist	Skill	Priest	Exorcist	Normal	2		1	Choose an enemy Hero. Until the end of your opponent's next turn, that Hero may not receive Buffs, and may not have any of their Debuffs removed.
+Inner Strength	Set1	InnerStrengthPriest	Skill	Priest	Priest	Normal	1		2	Give an allied Hero (Power 1).
+Lifeweave	Set1	LifeweavePriest	Skill	Priest	Priest	Normal	1		2	Deal 1 damage to an enemy Hero, then Heal 1 damage from another allied Hero.
+Punish Avarice	Set1	PunishAvariceInquisitor	Skill	Priest	Inquisitor	Normal	2		3	This skill can only be used on an enemy Hero that has AP equal to or greater to their maximum AP. Deal 6 damage to an enemy Hero, then that Hero loses 1 AP.
+Purge Evil	Set1	PurgeEvilExorcist	Skill	Priest	Exorcist	Quick	2		2	Remove all Buffs from an enemy Hero, then that Hero is dealt 1 damage for each Buff removed.
+Quell Spirits	Set1	QuellSpiritsExorcist	Skill	Priest	Exorcist	Normal	2		2	Hero Spirits cannot use Spirit Abilities until the end of your opponent's next turn.
+Radiant Wisp	Set1	RadiantWispPriest	Skill	Priest	Priest	Normal	1		2	Create a 0/1 Wisp summon with At the beginning of your turn, Heal 1 damage from an allied Hero.
+Rains of Mercy	Set1	RainsofMercyArchangel	Skill	Priest	Archangel	Normal	3		2	Each allied Hero gets (Regen 1).
+Retribution	Set1	RetributionArchangel	Skill	Priest	Archangel	Quick	3		2	The next damage this Archangel receives from an enemy skill or ability is also dealt to the enemy Hero who used that ability.
+Reward The Pious	Set1	RewardthePiousInquisitor	Skill	Priest	Inquisitor	Normal	2		2	Choose another allied Hero. That Hero pays any amount of AP, then Heal 1 damage from that Hero for each AP paid.
+Saint's Mercy	Set1	SaintsMercyBishop	Skill	Priest	Bishop	Normal	2		2	Heal 2 damage from an enemy Hero, the draw 2 cards.
+Salvation	Set1	SalvationArchangel	Skill	Priest	Archangel	Normal	3		5	Choose an allied Hero Spirit. Return that Hero Spirit to its Hero side with 10 HP. During your next upkeep, this Archangel recovers no AP.
+Soulstorm	Set1	SoulstormExorcist	Skill	Priest	Exorcist	Normal	2		2	Deal damage equal to the number of Debuffs on allied Heroes divided as you choose to enemy characters. 
+Tree of Renewal	Set1	TreeofRenewalBishop	Skill	Priest	Bishop	Normal	2		3	Create a 0/3 Spirit Tree summon with Cannot block or attack. At the end of your turn, Heal 1 damage from all allied Heroes.
+Wave of Radiance	Set1	WaveofRadianceArchangel	Skill	Priest	Archangel	Normal	3		X	Deal X-2 damage to each enemy Hero, or Heal X-1 damage from each allied Hero.
